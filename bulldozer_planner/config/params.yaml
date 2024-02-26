@@ -1,0 +1,5 @@
+global_planner_node:
+  ros__parameters:
+    service_topic: global_planner
+    working_width: 1.0
+    angle2axis: 0.5

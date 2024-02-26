@@ -1,0 +1,5 @@
+int64 operation_id
+geometry_msgs/Polygon zone
+grid_map_msgs/GridMap grid_map
+---
+nav_msgs/Path trajectory
